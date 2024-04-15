@@ -1,0 +1,142 @@
+
+*{
+    padding: 0px;
+    box-sizing: border-box;
+ 
+}
+
+h1{
+
+  font-family: "Pinyon Script", cursive;
+  font-weight: 100;
+}
+
+h3{
+   font-family: "Lora", serif;
+  font-weight:200
+}
+
+body{
+    
+    padding: 30px;
+    margin: 50px;
+    background-image: url(../imagenes/fondo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;   
+}
+
+body:before{
+    
+    position: fixed;
+    content: "";
+    width: 100%;
+    min-height: 100%;
+    top: 0;
+    left: 0;
+    background: rgba(230,235,252);
+    opacity: 0.2;
+    z-index: -1;
+}
+
+.cabecera{
+    padding-bottom: 50px;
+    font-size: 20px;
+    text-align: center;
+    display:block;
+}
+    
+
+.decoracion img{
+    width: 150px;
+    padding: 0px;
+    margin: -10px;
+    margin-left: -15px       
+}
+    
+.iglesia img{
+    width: 300px;
+    padding: 10px;
+    border-radius: 70px;
+ } 
+
+.boton img{
+    width: 90px;
+    border-radius: 25px;
+}
+
+.salon img{
+    width: 300px;
+    padding: 10px;
+    border-radius: 70px; 
+}
+
+.boton2 img{
+    width: 90px;
+    border-radius: 25px;
+    padding: 0px;
+ }   
+
+.misxv{
+    text-align:center;
+    font-size: 17px;
+ }
+
+.lucero{
+    text-align: center;
+    font-size: 60px;
+    margin: 10px;
+    color: #997C28
+ }
+
+.fecha{
+    text-align: center;
+    font-size: 17px;
+}   
+
+.teinvito
+    text-align: c;
+    font-size: 15px;
+    border-style:ridge;
+    padding: 40px;
+    margin: -70px;
+    border-color: #997C28;
+    border-width: medium;
+ } 
+    
+.iglesia2{
+    text-align:center;
+ }   
+
+.siguiente{
+    text-align: center;
+    font-size: 17px;
+    border-style: ridge;
+    border-color: #997C28;
+    padding: 40px;
+    margin: -70px;
+    border-width: medium;
+    font-style:
+}
+
+.imagen2 img{
+    width: 200px;
+    padding: 40px;
+    margin: 10px
+        
+}
+
+.decoracion3{
+    width: 150px    
+    
+
+    
+
+    
+    
+    
+
+
+        
+        
